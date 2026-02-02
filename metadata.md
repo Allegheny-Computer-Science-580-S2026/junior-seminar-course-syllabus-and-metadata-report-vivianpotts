@@ -61,11 +61,10 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Researcher Name / Project**: Kevin Devurglas / Suzanne
+- **Feedback Provided**: I stated that he needed more reasoing to why he developed it the way he did? Why voice instead of text? Is there graphics to see??
+- **Impact**: N/A yet!
+- **Reference**: [(https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/7)]
 
 Example entries:
 
