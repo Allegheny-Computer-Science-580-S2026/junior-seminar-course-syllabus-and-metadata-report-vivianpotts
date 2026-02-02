@@ -2,9 +2,7 @@
 
 ## Researcher Name
 
-A research group member should type their name below.
-
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: `Vivian Potts`
 
 ## Reading Syllabus Pledge
 
@@ -12,7 +10,7 @@ A research group member should add an X-mark to the box to indicate that they
 have carefully read and understood the Junior Seminar Research Project Syllabus
 and that they are ready to complete their Junior Seminar Research Project.
 
-- [ ] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [X] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
@@ -21,20 +19,18 @@ A research group member should add an X-mark to the box to indicate that they
 agree to adhere to the Allegheny College Honor Code during the completion of
 their Junior Seminar Research Project.
 
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [X] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
-A research group member should type their GitHub username below.
-
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: `vivianpotts`
 
 ## GitHub Repositories
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-vivianpotts.git)
 
 ### GitHub Repository for Research Prototype
 
@@ -50,7 +46,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Add the Title of Your Junior Seminar Research Project
+MAIPAN: Measuring Arbitrary Values 
 ```
 
 ## Research Group Contributions
@@ -65,11 +61,10 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Researcher Name / Project**: Kevin Devurglas / Suzanne
+- **Feedback Provided**: I stated that he needed more reasoing to why he developed it the way he did? Why voice instead of text? Is there graphics to see??
+- **Impact**: N/A yet!
+- **Reference**: [(https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-KevenDuverglas/issues/7)]
 
 Example entries:
 
